@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageContainerFiller", "StorageContainerFiller\StorageContainerFiller.csproj", "{387E3170-690C-46A6-A389-BF906C76A9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaDownloader", "MediaDownloader\MediaDownloader.csproj", "{31F41461-33BB-4681-99C5-25674E0E58FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387E3170-690C-46A6-A389-BF906C76A9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387E3170-690C-46A6-A389-BF906C76A9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387E3170-690C-46A6-A389-BF906C76A9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387E3170-690C-46A6-A389-BF906C76A9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F41461-33BB-4681-99C5-25674E0E58FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F41461-33BB-4681-99C5-25674E0E58FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F41461-33BB-4681-99C5-25674E0E58FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F41461-33BB-4681-99C5-25674E0E58FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46E54EBC-2F19-4206-82EE-E494841F1937}
+	EndGlobalSection
+EndGlobal
